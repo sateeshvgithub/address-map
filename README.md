@@ -1,9 +1,7 @@
 # address-map
 simplefied address mapping tool that can be embedded  ur react portal
 
-Here’s a **ready-to-publish `README.md`** for your GitHub challenge repo 👇
 
----
 
 ```markdown
 # 🧩 Challenge: Free-Form Indian Address Parser (React / JavaScript)
@@ -237,8 +235,3 @@ Mr Ramesh Kumar, Brundavanam colony dno 11111, Near Ram temple, Chennai 600001, 
 
 **Good luck, and have fun parsing the chaos of Indian addresses! 🇮🇳**
 
-```
----
-
-Would you like me to add a **grading rubric (0–5 scale per category)** to this README for use in hackathon or evaluation?
-```
